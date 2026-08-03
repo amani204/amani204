@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=F8A5C2&text=Amani%20Adjailia&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=d17a97&text=Amani%20Adjailia&fontColor=faf8f5&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Building+beautiful+web+experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=d17a97&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Building+beautiful+web+experiences"/>
 
 </div>
 
@@ -98,6 +98,6 @@ const amani = {
 
 ### "Turning ideas into elegant digital experiences."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=F8A5C2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=d17a97"/>
 
 </div>
