@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=d17a97&text=Amani%20Adjailia&fontColor=faf8f5&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=800020&text=Amani%20Adjailia&fontColor=faf8f5&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=d17a97&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Building+beautiful+web+experiences"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Building+beautiful+web+experiences"/>
 </div>
 
 ---
@@ -68,14 +67,6 @@ const amani = {
 ---
 <div align="center">
 
-# GitHub Analytics
-
-<img height="170" src="https://streak-stats.demolab.com?user=amani204&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 # Connect With Me
 
 <a href="mailto:uniamani2022@gmail.com">
@@ -98,6 +89,5 @@ const amani = {
 
 ### "Turning ideas into elegant digital experiences."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=d17a97"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=800020"/></div> 
 
-</div>
