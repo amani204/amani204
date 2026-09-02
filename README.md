@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=800020&text=Amani%20Adjailia&fontColor=faf8f5&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Building+beautiful+web+experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;React+•+Next.js+•+TypeScript;Python+•+Machine+Learning+•+RAG;Building+AI-Powered+Web+Applications"/>
 </div>
 
 ---
@@ -13,46 +13,7 @@
 
 </div>
 
-```ts
-const amani = {
-  role: "AI Engineer & Full-Stack Developer",
-
-  location: "Algeria",
-
-  currentlyBuilding: [
-    "Modern Web Applications",
-    "AI-Powered Healthcare Solutions",
-    "Interactive User Experiences"
-  ],
-
-  currentlyLearning: [
-    "Machine Learning",
-    "System Design",
-    "Backend Architecture"
-  ],
-
-  tech: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS",
-      "GSAP"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "PostgreSQL",
-      "Prisma"
-    ]
-  },
-
-  philosophy:
-    "Build with passion. Design with purpose."
-}
-```
+I'm an **AI Engineer and Full-Stack Developer** passionate about building modern web applications and AI-powered solutions. I enjoy combining **machine learning, AI, and full-stack development** to turn ideas into useful, user-friendly products.
 
 ---
 
@@ -60,11 +21,34 @@ const amani = {
 
 # Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,vercel,figma,vscode"/>
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+
+**Python • Machine Learning • RAG • LLM • AI**
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind"/>
+
+**React • Next.js • TypeScript • JavaScript • Tailwind CSS • GSAP**
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
+
+**Node.js • Express • REST APIs • MongoDB • PostgreSQL • Prisma**
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,figma,vscode"/>
+
+**Git • GitHub • Docker • GitHub Actions • Vercel • Figma • VS Code**
 
 </div>
 
 ---
+
 <div align="center">
 
 # Connect With Me
@@ -87,7 +71,8 @@ const amani = {
 
 <div align="center">
 
-### "Turning ideas into elegant digital experiences."
+### "Turning ideas into intelligent digital experiences."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=800020"/></div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=800020"/>
 
+</div>
